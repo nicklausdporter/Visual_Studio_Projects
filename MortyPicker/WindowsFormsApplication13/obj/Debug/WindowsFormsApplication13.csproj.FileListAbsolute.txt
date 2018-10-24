@@ -1,0 +1,17 @@
+\\mydocs.uark.edu\mydocs\ndporter\documents\visual studio 2015\Projects\WindowsFormsApplication13\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.exe.config
+\\mydocs.uark.edu\mydocs\ndporter\Documents\Visual Studio 2015\Projects\WindowsFormsApplication13\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.exe
+\\mydocs.uark.edu\mydocs\ndporter\Documents\Visual Studio 2015\Projects\WindowsFormsApplication13\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.pdb
+\\mydocs.uark.edu\mydocs\ndporter\Documents\Visual Studio 2015\Projects\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.Properties.Resources.resources
+\\mydocs.uark.edu\mydocs\ndporter\Documents\Visual Studio 2015\Projects\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.csproj.GenerateResource.Cache
+\\mydocs.uark.edu\mydocs\ndporter\Documents\Visual Studio 2015\Projects\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.exe
+\\mydocs.uark.edu\mydocs\ndporter\Documents\Visual Studio 2015\Projects\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.pdb
+\\mydocs.uark.edu\mydocs\ndporter\Documents\Visual Studio 2015\Projects\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\OrderingMortyApp.frmOrderingMorty.resources
+\\mydocs.uark.edu\mydocs\ndporter\Documents\Visual Studio 2015\Projects\MortyPicker\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.exe.config
+\\mydocs.uark.edu\mydocs\ndporter\Documents\Visual Studio 2015\Projects\MortyPicker\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.exe
+\\mydocs.uark.edu\mydocs\ndporter\Documents\Visual Studio 2015\Projects\MortyPicker\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.pdb
+\\mydocs.uark.edu\mydocs\ndporter\Documents\Visual Studio 2015\Projects\MortyPicker\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.exe
+\\mydocs.uark.edu\mydocs\ndporter\Documents\Visual Studio 2015\Projects\MortyPicker\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.pdb
+\\mydocs.uark.edu\mydocs\ndporter\Documents\Visual Studio 2015\Projects\MortyPicker\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.csprojResolveAssemblyReference.cache
+\\mydocs.uark.edu\mydocs\ndporter\Documents\Visual Studio 2015\Projects\MortyPicker\WindowsFormsApplication13\obj\Debug\OrderingMortyApp.frmOrderingMorty.resources
+\\mydocs.uark.edu\mydocs\ndporter\Documents\Visual Studio 2015\Projects\MortyPicker\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.Properties.Resources.resources
+\\mydocs.uark.edu\mydocs\ndporter\Documents\Visual Studio 2015\Projects\MortyPicker\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.csproj.GenerateResource.Cache
